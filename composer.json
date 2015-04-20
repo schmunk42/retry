@@ -1,6 +1,6 @@
 {
-    "name": "igorw/retry",
-    "description": "A tiny library for retrying failing operations.",
+    "name": "schmunk42/retry",
+    "description": "A tiny library for retrying failing operations. [fork with tags]",
     "keywords": ["failure"],
     "license": "MIT",
     "authors": [
